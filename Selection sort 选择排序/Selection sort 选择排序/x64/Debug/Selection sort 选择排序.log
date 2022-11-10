@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Dev\Cpp\Selection sort 选择排序\Selection sort 选择排序\main.cpp(51,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+C:\Dev\Cpp\Selection sort 选择排序\Selection sort 选择排序\main.cpp(77,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+  Selection sort 选择排序.vcxproj -> C:\Dev\Cpp\Selection sort 选择排序\x64\Debug\Selection sort 选择排序.exe
