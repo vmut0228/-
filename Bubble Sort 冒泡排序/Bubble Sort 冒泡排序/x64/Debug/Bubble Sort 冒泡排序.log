@@ -1,4 +1,0 @@
-﻿  源.cpp
-C:\Dev\Cpp\Bubble Sort 冒泡排序\Bubble Sort 冒泡排序\源.cpp(51,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
-C:\Dev\Cpp\Bubble Sort 冒泡排序\Bubble Sort 冒泡排序\源.cpp(63,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
-  Bubble Sort 冒泡排序.vcxproj -> C:\Dev\Cpp\Bubble Sort 冒泡排序\x64\Debug\Bubble Sort 冒泡排序.exe
