@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Dev\Cpp\Insertion sort 插入排序\Insertion sort 插入排序\main.cpp(51,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+C:\Dev\Cpp\Insertion sort 插入排序\Insertion sort 插入排序\main.cpp(71,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“long”，可能丢失数据
+C:\Dev\Cpp\Insertion sort 插入排序\Insertion sort 插入排序\main.cpp(54,9): warning C4101: “j”: 未引用的局部变量
+C:\Dev\Cpp\Insertion sort 插入排序\Insertion sort 插入排序\main.cpp(54,12): warning C4101: “temp”: 未引用的局部变量
+  Insertion sort 插入排序.vcxproj -> C:\Dev\Cpp\Insertion sort 插入排序\x64\Debug\Insertion sort 插入排序.exe
